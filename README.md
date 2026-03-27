@@ -75,4 +75,6 @@ To run this project locally, follow these steps:
 
 ## 📜 License
 
-Public
+Public to use
+
+N♥️
