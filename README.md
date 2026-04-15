@@ -102,7 +102,7 @@ python3 library_app.py
 
 <div align="center">
   <p><i>Kütüphaneleri sıkıcı depolar olmaktan çıkarıp, dinamik bir öğrenme merkezine dönüştürmek için tasarlandı.</i></p>
-  <b>© 2026 ŞAİK Software & AI Development Solutions</b>
+  <b>© 2026 devMurat06 Software & AI Development Solutions</b>
 </div>
 
 N♥️
